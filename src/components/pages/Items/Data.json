@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "headline": "Red Prined T-Shirt",
+    "des": "$50.00",
+    "img": "images/img1a.webp",
+    "subimg": {
+      "img1a": "images/img1a.webp",
+      "img1b": "images/img1b.webp",
+      "img1c": "images/img1c.webp",
+      "img1d": "images/img1d.webp"
+    }
+  },
+  {
+    "id": 2,
+    "headline": "Red Prined T-Shirt",
+    "des": "$40.00",
+    "img": "images/img2a.webp",
+    "subimg": {
+      "img1a": "images/img2a.webp",
+      "img1b": "images/img2b.webp",
+      "img1c": "images/img2c.webp",
+      "img1d": "images/img2d.webp"
+    }
+  },
+  {
+    "id": 3,
+    "headline": "Red Prined T-Shirt",
+    "des": "$70.00",
+    "img": "images/img3a.webp",
+    "subimg": {
+      "img1a": "images/img3a.webp",
+      "img1b": "images/img3b.webp",
+      "img1c": "images/img3c.webp",
+      "img1d": "images/img3d.webp"
+    }
+  },
+  {
+    "id": 4,
+    "headline": "Red Prined T-rat",
+    "des": "$55.00",
+    "img": "images/img4a.webp",
+    "subimg": {
+      "img1a": "images/img4a.webp",
+      "img1b": "images/img4b.webp",
+      "img1c": "images/img4c.webp",
+      "img1d": "images/img4d.webp"
+    }
+  },
+  {
+    "id": 5,
+    "headline": "Red Prined T-df",
+    "des": "$55.00",
+    "img": "images/img5a.webp",
+    "subimg": {
+      "img1a": "images/img5a.webp",
+      "img1b": "images/img5b.webp",
+      "img1c": "images/img5c.webp",
+      "img1d": "images/img5d.webp"
+    }
+  },
+  {
+    "id": 6,
+    "headline": "PATTERNED WOVEN SHIRT TUNIC",
+    "des": "$55.00",
+    "img": "images/img6a.webp",
+    "subimg": {
+      "img1a": "images/img6a.webp",
+      "img1b": "images/img6b.webp",
+      "img1c": "images/img6c.webp",
+      "img1d": "images/img6d.webp"
+    }
+  },
+  {
+    "id": 7,
+    "headline": "RELAX FIT CARROT TROUSERS",
+    "des": "$55.00",
+    "img": "images/img7a.webp",
+    "subimg": {
+      "img1a": "images/img7a.webp",
+      "img1b": "images/img7b.webp",
+      "img1c": "images/img7c.webp",
+      "img1d": "images/img7d.webp"
+    }
+  },
+  {
+    "id": 8,
+    "headline": "Red Prined T-reer",
+    "des": "$55.00",
+    "img": "images/img8a.webp",
+    "subimg": {
+      "img1a": "images/img8a.webp",
+      "img1b": "images/img8b.webp",
+      "img1c": "images/img8c.webp",
+      "img1d": "images/img8d.webp"
+    }
+  },
+  {
+    "id": 9,
+    "headline": "STRIPED LONG SLEEVE RELAX FIT",
+    "des": "$16.00",
+    "img": "images/img9a.webp",
+    "subimg": {
+      "img1a": "images/img9a.webp",
+      "img1b": "images/img9b.webp",
+      "img1c": "images/img9c.webp",
+      "img1d": "images/img9d.webp"
+    }
+  },
+  {
+    "id": 10,
+    "headline": "PRIORITY WOMAN SHORT SLEEVE",
+    "des": "$12.00",
+    "img": "images/img10a.webp",
+    "subimg": {
+      "img1a": "images/img10a.webp",
+      "img1b": "images/img10b.webp",
+      "img1c": "images/img10c.webp",
+      "img1d": "images/img10d.webp"
+    }
+  },
+  {
+    "id": 11,
+    "headline": "Stand-up Collar Elastic Waist Crop Sweatshirt",
+    "des": "$15.00",
+    "img": "images/img11a.webp",
+    "subimg": {
+      "img1a": "images/img11a.webp",
+      "img1b": "images/img11b.webp",
+      "img1c": "images/img11c.webp",
+      "img1d": "images/img11d.webp"
+    }
+  },
+  {
+    "id": 12,
+    "headline": "Priority Woman Short Sleeve T-Shirt",
+    "des": "$60.00",
+    "img": "images/img12a.webp",
+    "subimg": {
+      "img1a": "images/img12a.webp",
+      "img1b": "images/img12b.webp",
+      "img1c": "images/img12c.webp",
+      "img1d": "images/img12d.webp"
+    }
+  }
+]
